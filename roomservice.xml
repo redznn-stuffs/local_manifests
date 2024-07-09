@@ -17,4 +17,7 @@
   <!-- Prebuilts -->
   <project path="prebuilts/clang/host/linux-x86/clang-r522817" name="kei-space/clang/r522817" clone-depth="1" revision="master" remote="gitlab" />
 
+  <!-- Keys -->
+  <project path="vendor/aosp/signing/keys" name="redznn-stuffs/keys" remote="github" revision="fourteen" />
+
 </manifest>
